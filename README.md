@@ -18,7 +18,7 @@ A mobile app built with Expo and React Native.
 npm install
 ```
 
--Start the app:
+- Start the app:
 ```bash
 npx expo start -c
 ```
